@@ -1,0 +1,1 @@
+Title is 제목 없음 - 메모장, Class is Notepad, ID is 0xc0402, Position(262, 134), Size(953, 1029)
